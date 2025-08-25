@@ -1,12 +1,22 @@
-site_name: Documentación Agencia XYZ
+site_name: Estructura LOOM de explicación del sistema
 theme:
   name: material
 
 nav:
   - Inicio: index.md
-  - Bienvenida:
-      - Introducción: bienvenida/intro.md
-      - Primeros pasos: bienvenida/pasos.md
-  - Funcionalidades:
-      - CRM: funcionalidades/crm.md
-      - Automations: funcionalidades/automations.md
+  - Introducción:
+  - CRM:
+      - Movimiento en el pipeline: bienvenida/intro.md
+      - Agregar Notas: bienvenida/pasos.md
+      - Etiquetas: bienvenida/intro.md
+      - Filtrar: bienvenida/pasos.md
+  - Conversaciones:
+      - Etiquetas, pipeline, asignacion de user, notas: funcionalidades/crm.md
+      - Favoritos: funcionalidades/automations.md
+      - Filtro pot palabra, nombre o número de teléfono: funcionalidades/automations.md
+  - Dashboard:
+      - Filtro: funcionalidades/crm.md
+  - Calendarios:
+      - Parte 1: calendarios/p1.md
+      - Parte 2: calendarios/p2.md
+
