@@ -11,14 +11,15 @@ nav:
       - Etiquetas: CRM/etiquetas.md
       - Filtrar: CRM/filtrar.md
   - Conversaciones:
-      - Etiquetas, pipeline, asignacion de user, notas: Conversaciones/Etiq,pipeline,au,notas.md
-      - Favoritos: Conversaciones/favoritos.md
-      - Filtro pot palabra, nombre o número de teléfono: Conversaciones/filtropor.md
+      - Etiquetas, pipeline, asignacion de user, notas: Conversaciones/etiquetas.md
+      - Favoritos: Conversaciones/Favoritos.md
+      - Filtro pot palabra, nombre o número de teléfono: Conversaciones/Filtropor.md
   - Dashboard:
-      - Filtro: Dashboard/Filtropor.md
+      - Filtro: Dashboard/filtrodashboard.md
   - Calendarios:
       - Parte 1: Calendarios/calendario.md
       - Parte 2: Calendarios/calendario.md
+
 
 
 
