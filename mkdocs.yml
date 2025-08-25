@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: Documentación Agencia XYZ
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - Bienvenida:
+      - Introducción: bienvenida/intro.md
+      - Primeros pasos: bienvenida/pasos.md
+  - Funcionalidades:
+      - CRM: funcionalidades/crm.md
+      - Automations: funcionalidades/automations.md
