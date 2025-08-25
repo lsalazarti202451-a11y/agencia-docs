@@ -4,7 +4,7 @@ theme:
 
 nav:
   - Inicio: index.md
-  - Introducción:
+  - Introducción: intro.md
   - CRM:
       - Movimiento en el pipeline: CRM/movimientopipeline.md
       - Agregar Notas: CRM/aggnotas.md
@@ -19,5 +19,6 @@ nav:
   - Calendarios:
       - Parte 1: Calendarios/calendario.md
       - Parte 2: Calendarios/calendario.md
+
 
 
