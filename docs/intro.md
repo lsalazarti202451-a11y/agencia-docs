@@ -42,6 +42,7 @@ Este SOP proporciona una guía clara y concisa sobre cómo navegar y utilizar la
 
 ## 7. Uso de Funciones Principales 5:30
 ![No found ](img/intro.jpg)
+
 - Enfocarse en las funciones más utilizadas: Dashboard, Conversaciones, Calendarios y Oportunidades.
 
 ## 8. Soporte y Consultas 6:13
