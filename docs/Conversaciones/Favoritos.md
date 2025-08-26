@@ -1,4 +1,4 @@
-# Filtro por palabra, nombre o numero de telefono
+# Favoritos
 
 Sigue estas instrucciones para empezar:
 
