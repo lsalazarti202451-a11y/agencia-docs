@@ -9,7 +9,7 @@ Este SOP proporciona una guía clara y concisa sobre cómo navegar y utilizar la
 - Bienvenida al video introductorio sobre Mediasis.
 - Familiarización con las herramientas y funciones principales del sistema.
 
-![Intro](https://raw.githubusercontent.com/lsalazarti202451-a11y/agencia-docs/main/img/intro.jpg)
+![No found ](img/intro1.jpg)
 
 ## 2. Navegación en el Dashboard
 ![No found ](img/intro2.jpg)
