@@ -24,7 +24,7 @@ Este SOP proporciona una guía clara y concisa sobre cómo navegar y utilizar la
 - Utilizar el globito correspondiente para identificar el canal de origen.
 
 ## 4. Creación y Personalización de Calendarios 2:45
-![No found ](../img/intro 4.jpg)
+![No found ](../img/intro4.jpg)
 
 - Acceder a la sección de calendarios.
 - Crear y personalizar calendarios según la disponibilidad y necesidades.
