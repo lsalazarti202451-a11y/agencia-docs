@@ -1,4 +1,4 @@
-site_name: Estructura LOOM de explicación del sistema
+site_name: Tutoriales de MedIASys System
 theme:
   name: material
 
@@ -6,19 +6,18 @@ nav:
   - Inicio: index.md
   - Introducción: intro.md
   - CRM:
-      - Movimiento en el pipeline: CRM/movimientopipeline.md
-      - Agregar Notas: CRM/aggnotas.md
-      - Etiquetas: CRM/etiquetas.md
-      - Filtrar: CRM/filtrar.md
+      - Procedimiento Estandar: CRM/procedimientoCRM.md
+      - Otros: CRM/otrosCRM.md
   - Conversaciones:
-      - Etiquetas, pipeline, asignacion de user, notas: Conversaciones/etiquetas.md
+      - Procedimiento Estandar: Conversaciones/conversaciones.md
       - Favoritos: Conversaciones/Favoritos.md
-      - Filtro pot palabra, nombre o número de teléfono: Conversaciones/Filtropor.md
   - Dashboard:
-      - Filtro: Dashboard/filtrodashboard.md
+      - Procedimiento Estandar: Dashboard/procedimientodashboard.md
+      - Otros: Dashboard/filtrodashboard.md
   - Calendarios:
-      - Parte 1: Calendarios/calendario.md
-      - Parte 2: Calendarios/calendario.md
+      - Procedimiento Estandar: Calendarios/calendario.md
+      - Otros: Calendarios/calendario.md
+
 
 
 
