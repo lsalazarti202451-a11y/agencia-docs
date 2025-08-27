@@ -3,8 +3,8 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: indigo
-    accent: cyan 
+    primary: cyan
+    accent: indigo
   font:
     text: Roboto
     code: Roboto Mono
@@ -23,6 +23,7 @@ nav:
   - Calendarios:
       - Procedimiento Estandar: Calendarios/calendario.md
       - Otros: Calendarios/calendario.md
+
 
 
 
