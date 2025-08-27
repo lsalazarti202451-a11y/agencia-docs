@@ -1,7 +1,13 @@
 site_name: Tutoriales de MedIASys System
 theme:
   name: material
-
+  palette:
+    scheme: slate
+    primary: indigo
+    accent: cyan 
+  font:
+    text: Roboto
+    code: Roboto Mono
 nav:
   - Inicio: index.md
   - Introducción: intro.md
@@ -17,6 +23,7 @@ nav:
   - Calendarios:
       - Procedimiento Estandar: Calendarios/calendario.md
       - Otros: Calendarios/calendario.md
+
 
 
 
